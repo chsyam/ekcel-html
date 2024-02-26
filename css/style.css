@@ -4463,11 +4463,12 @@ a.ftcall:hover {
 .copyrights {
     width: 100%;
     display: table;
-    height: 70px;
-    line-height: 70px;
+    height: 60px;
+        line-height: 60px;
     color: #7F7F7F;
     font-size: 14px;
     text-align: center;
+    background-color: #001233;
 }
 
 
